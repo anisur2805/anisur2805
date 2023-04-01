@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anisur Rahman</h1>
 <h3 align="center">A passionate WordPress Theme and Plugin developer based on Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anisur2805&label=Profile%20views&color=0e75b6&style=flat" alt="anisur2805" /> </p>
-
 - 🔭 I’m currently working on **Le Resto Restaurant**
 
 <h3 align="left">Connect with me:</h3>
