@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anisur Rahman</h1>
 <h3 align="center">A passionate WordPress Theme and Plugin developer based on Bangladesh</h3>
 
-- 🔭 I’m currently working on **Le Resto Restaurant**
+- 🔭 I’m currently working as **WordPress Themes and Plugins Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
