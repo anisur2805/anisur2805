@@ -36,9 +36,8 @@ $anisur = [
     'location'   => 'Joypurhat, Bangladesh 🇧🇩',
     'experience' => '7+ years',
     'focus'      => ['Custom Plugins', 'Gutenberg/FSE', 'React', 'WooCommerce'],
-    'currently'  => 'Contractor @ Green Arrow Consultancy Ltd (UK)',
+    'currently'  => 'Freelance WordPress Developer',
     'published'  => ['clandevs-smart-catalog-filters', 'ar-back-to-top'],
-    'superpower' => 'AI-assisted Module Factory — 3 days → 1 day per module',
 ];
 ```
 
