@@ -146,7 +146,7 @@ Also contributing to: [HeyMehedi/boltaudit](https://github.com/HeyMehedi/boltaud
 
 - 💼 **LinkedIn:** [linkedin.com/in/anisur-anis](https://linkedin.com/in/anisur-anis)
 - 🔶 **Stack Overflow:** [/users/6116595/anisur-rahman](https://stackoverflow.com/users/6116595/anisur-rahman)
-- 🐘 **WordPress.org:** [profiles.wordpress.org/anisur2805](https://profiles.wordpress.org/anisur2805)
+- 🐘 **WordPress.org:** [profiles.wordpress.org/anisur2805](https://profiles.wordpress.org/anisur8294)
 - 📘 **Facebook:** [fb.com/anisurbinam](https://fb.com/anisurbinam)
 
 ---
